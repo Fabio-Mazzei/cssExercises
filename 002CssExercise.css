@@ -1,0 +1,11 @@
+/* Create 2 title elements with different id's to change the text color and background color of each title. Use one file for HTML and one for CSS. */
+
+#colors-1 {
+    color: teal;
+    background-color: tomato;
+}
+
+#colors-2 {
+    color: darkblue;
+    background-color: darkgoldenrod;
+}
