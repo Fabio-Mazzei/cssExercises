@@ -1,0 +1,7 @@
+/* Combine selectors. Create a single h1 element with an id to change the text color and two classes. One of the classes changes the background color and the other changes the font size. therefore, use a separate CSS file to call just one CSS statement that calls the id and the two classes. */
+
+#color.background-color.letter-size {
+    color: royalblue;
+    background-color: darkseagreen;
+    font-size: 300%;
+}
