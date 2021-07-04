@@ -1,0 +1,18 @@
+/* Create an HTML file with 3 button elements, then a class that changes padding and text color of all buttons, and also create another class that changes each button's background color separately. */
+
+.btn {
+    padding: 10px;
+    color: yellow;
+}
+
+.btn-1 {
+    background-color: green;
+}
+
+.btn-2 {
+    background-color: teal;
+}
+
+.btn-3 {
+    background-color: tomato;
+}
