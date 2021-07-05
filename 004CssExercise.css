@@ -1,0 +1,5 @@
+/* Combine elements selectors. Create a <div> containing a <p> element with any text and change the text color to red. Do it accessing the paragraph with the combination of the div and p selectors. Use a separate CSS file for this exercise. */
+
+div p{
+    color: red;
+}
