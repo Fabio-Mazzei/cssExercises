@@ -1,0 +1,5 @@
+/* Combine elements and class selectors. Create a <header>, a <div> and a <p> in a HTML file. Then create a class for <header> and another class for <p>. Use all selectors combined to change the color of the text inside the <p> element to blue. Use a separate file for CSS. */
+
+header.main-header div p.blue{
+    color: blue;
+}
