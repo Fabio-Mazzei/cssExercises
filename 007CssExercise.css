@@ -1,0 +1,9 @@
+/* All selector. Change 5 aspects of the entire HTML document using just one selector. Use a separate CSS file for this exercise. */
+
+* {
+    font-size: 110%;
+    font-family: monospace;
+    color: indigo;
+    font-weight: bold;
+    font-style: italic;
+}
