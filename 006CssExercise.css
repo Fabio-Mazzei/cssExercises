@@ -1,0 +1,10 @@
+/* Different classes in the same CSS declaration */
+
+.font-size-1, .font-size-2, .font-size-4 {
+    font-size: 32px;
+}
+
+.font-size-3 {
+    font-size: 64px;
+    color: green;
+}
